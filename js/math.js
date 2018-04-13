@@ -13,10 +13,10 @@
 //window.console.log(Math.floor(decimal));
 
 //STEP 4
-//var numbers = window.prompt("Enter five numbers comma delimitted");
+//var numbers = window.prompt("Enter five numbers comma separated");
 //var array = numbers.split(",");
 //window.console.log("Min: " + Math.min(...array) + " Max: " + Math.max(...array));
 
 //STEP 5
-//var number = window.prompt("Find the sq root of:");
+//var number = window.prompt("Enter the number you want to calculate the square root of:");
 //window.console.log(Math.sqrt(number));
