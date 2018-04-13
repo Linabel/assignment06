@@ -2,14 +2,14 @@
 
 //STEP 1
 
-//function AlphabeticalSort() { 
-//	var word= window.prompt("Enter a word");
-//    var wordSplit = word.split("");
-//    var wordSort = wordSplit.sort();
-//    var sortedWord = wordSplit.join("");
-//    return sortedWord;
-//}
-//window.console.log(sortedWord);
+/// function alphabeticalSort(){
+//     var word = window.prompt("enter a word");
+//       word = word.split("");
+//       word = word.sort()
+//       word = word.join("");
+//     window.console.log(word);
+// }
+// alphabeticalSort();
 	
 //STEP 2
 
